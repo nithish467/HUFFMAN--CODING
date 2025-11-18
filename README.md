@@ -79,7 +79,7 @@ for char, code in huffman_codes.items():
 ## Output:
 
 ### Print the characters and its huffmancode
-<img width="250" height="233" alt="Screenshot 2025-11-13 110502" src="https://github.com/user-attachments/assets/841cc9cb-489a-4a61-84f1-bf48f2b4a890" />
+![Uploading image.png…]()
 
 
 
